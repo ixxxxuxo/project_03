@@ -3,3 +3,4 @@
   - $ export FLASK_APP=myapp
   - $ flask db init <<< db 생성시 에러 발생 
    
+  reference : https://github.com/nikicc/twitter-emotion-recognition 
